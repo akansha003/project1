@@ -1,0 +1,38 @@
+
+body{
+  margin:12px;
+}
+.header {
+    background-color:rgb(236, 211, 127);
+    padding: 5px;
+    text-align:center;
+  }
+
+.topnav{
+  overflow: hidden;
+background-color:"white";
+  padding:10px;
+  text-align: right;
+}
+
+.section1 {
+ 
+float:left;
+width: 100%;
+ }
+ 
+
+ 
+
+ img{
+  margin-left: 400px;
+   height:400px;
+   width:500px;
+   
+ }
+
+ p{
+ 
+   line-height: 50px;
+  
+ }
